@@ -1,0 +1,4 @@
+id;int;10;TextField;pk
+idade;int;10;TextField;cn
+nome;int;10;TextField;cn
+rg;int;10;TextField;cn
